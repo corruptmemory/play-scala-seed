@@ -1,7 +1,7 @@
 resolvers += "Typesafe repository" at "http://repo.typesafe.com/typesafe/releases/"
 
 // The Play plugin
-addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.3.8-eccc45e728592c42a2b7e8821b09d1f50f4cbcb4")
+addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.3.8-7591330ccd513dfef0a95faf605197b852c3940a")
 
 // web plugins
 
